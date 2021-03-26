@@ -1,0 +1,7 @@
+// download_workshop_item.txt
+// Download and install a workshop item.
+@ShutdownOnFailedCommand 0
+@NoPromptForPassword 0
+//>login
+//>
+quit

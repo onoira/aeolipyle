@@ -1,0 +1,5 @@
+scripts/*
+!scripts/boilerplate.txt
+fids*
+urls*
+*.log
