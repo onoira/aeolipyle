@@ -1,5 +1,5 @@
 scripts/*
-!scripts/boilerplate.txt
+!scripts/boilerplate.steamcmd
 fids*
 urls*
 *.log
