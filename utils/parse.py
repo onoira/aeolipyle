@@ -1,4 +1,4 @@
-"""Parse urls.txt and extract PublishedFileIds to fids file."""
+"""Parse urls and extract PublishedFileIds to fids file."""
 FILE = 'urls'
 
 
