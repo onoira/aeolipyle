@@ -12,6 +12,14 @@ Automate text-based mod lists for Steam.
 
 You must first build the installer. The following options are available:
 
+### Building a list of URLs
+
+1. Create a collection on the Steam Workshop.
+2. On the collection page, open the Developer Tools (F12).
+3. In the Developer Console, paste the contents of `utils/modlist.js`.
+   - This will download a `urls` file to your configured downloads location.
+   - Move or copy the `urls` file to the aeolipyle directory.
+
 ### From a list of URLs
 
 1. Create a `urls` file containing a list of workshop links.
