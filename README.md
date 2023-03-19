@@ -37,6 +37,16 @@ You must first build the installer. The following options are available:
 
 In PowerShell: run `./run.ps1`.
 
+### Exporting mod paks
+
+> ⚠ This has only been tested and designed with Starbound in mind.
+>
+> Known issues: _a few_ mods aren't named `contents.pak` — but I handled these by hand.
+
+For distributing mod lists using `.pak` files: run `Get-Paks.ps1`.
+
+All `.pak` files will be placed in an `out/` folder.
+
 ## Settings
 
 `settings/app.id`
